@@ -16,7 +16,6 @@ export default function Home() {
             {/* <ManualHeader /> */}
             <Header />
             <LotteryEntrance />
-            Hey there!
         </div>
     )
 }
